@@ -1,6 +1,6 @@
 <h2>Meu nome é Antonio Nycollas</h2>
 
-Estas são minhas tecnologias:
+<h3>Estas são minhas tecnologias:</h3>
 
 ![Skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )
