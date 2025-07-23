@@ -36,4 +36,4 @@ Sou um desenvolvedor com foco em criar aplicações web eficientes e automatiza�
 ### 📫 Contato
 
 - GitHub: [@nycollasHolanda](https://github.com/nycollasHolanda)
-- Email: [Seu e-mail aqui]
+- Email: [holandanycollas@gmail.com](holandanycollas@gmail.com)
