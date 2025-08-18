@@ -24,15 +24,6 @@ Sou um desenvolvedor com foco em criar aplicações web eficientes e automatiza�
 
 ---
 
-### 📊 GitHub
-
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=nycollasHolanda&show_icons=true&theme=gruvbox"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycollasHolanda&hide_progress=true&theme=gruvbox"/>
-</div>
-
----
-
 ### 📫 Contato
 
 - GitHub: [@nycollasHolanda](https://github.com/nycollasHolanda)
