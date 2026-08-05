@@ -1,16 +1,16 @@
 <h1 align="center">Antonio Nycollas</h1>
 
-<p align="center">💻 Desenvolvedor Web & de Automações • 🎓 Técnico em Informática para Internet (IMD/UFRN)</p>
+<p align="center"> Desenvolvedor Web & de Automações • Técnico em Informática para Internet (IMD/UFRN)</p>
 
 ---
 
-### 🧾 Resumo
+### Resumo
 
 Sou um desenvolvedor com foco em criar aplicações web eficientes e automatizações inteligentes usando Python. Tenho experiência em projetos que envolvem scraping, manipulação de dados, criação de interfaces e integração com APIs.
 
 ---
 
-### 🛠️ Habilidades Técnicas
+### Habilidades Técnicas
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -25,7 +25,7 @@ Sou um desenvolvedor com foco em criar aplicações web eficientes e automatiza�
 
 ---
 
-### 📫 Contato
+### Contato
 
 - GitHub: [@nycollasHolanda](https://github.com/nycollasHolanda)
 - Email: [holandanycollas@gmail.com](holandanycollas@gmail.com)
