@@ -1,31 +1,66 @@
-<h1 align="center">Antonio Nycollas</h1>
+<div align="center">
 
-<p align="center"> Desenvolvedor Web & de Automações • Técnico em Informática para Internet (IMD/UFRN)</p>
+# Nycollas Holanda
 
----
+### Desenvolvedor Full Stack & Mobile
 
-### Resumo
+**Foco em desenvolvimento de software, arquitetura web e resolução de problemas complexos.**
 
-Sou um desenvolvedor com foco em criar aplicações web eficientes e automatizações inteligentes usando Python. Tenho experiência em projetos que envolvem scraping, manipulação de dados, criação de interfaces e integração com APIs.
-
----
-
-### Habilidades Técnicas
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Backend e Automação:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/nycollas-holanda-341846340) • [E-mail](holandanycollas@gmail.com)
+</div>
 
 ---
 
-### Contato
+## Apresentação
 
-- GitHub: [@nycollasHolanda](https://github.com/nycollasHolanda)
-- Email: [holandanycollas@gmail.com](holandanycollas@gmail.com)
+Desenvolvo aplicações web e mobile focadas em eficiência, legibilidade de código e manutenção no longo prazo. Atuo no ecossistema **JavaScript / TypeScript**, aplicando conceitos de arquitetura limpa, testes e padrões de projeto para entregar sistemas funcionais da interface ao servidor.
+
+Atualmente, dedico meus estudos no curso de **Análise e Desenvolvimento de Sistemas no IFRN**, combinando fundamentos acadêmicos com prática contínua em projetos reais para o desenvolvimento constante dos meus conhecimentos.
+
+---
+
+## Tecnologias e Ferramentas
+
+### Front-end & Interface
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavasScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Back-end & Engenharia
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### Dados & Infraestrutura
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Fluxo de Trabalho & Engenharia
+
+- **Modelagem de APIs:** Construção de rotas REST bem estruturadas, tratamento de exceções e validação de dados rígida.
+- **Automação e Produtividade:** Utilização de ferramentas de IA (como Copilot e agentes para IDE) integradas ao fluxo de dev para revisão, apoio em testes e otimização de rotina.
+- **Qualidade de Código:** Foco em TypeScript para tipagem estática, componentização reutilizável e padronização de commit/versionamento.
+
+---
+
+## Projetos em Destaque
+
+- **[Blog IMD](https://github.com/nycollasHolanda/Projeto-back-end-IMD)** — Aplicação criada usando node.js e express como conclusão da matéria de Back-end do curso do IMD.
+- **[Chat-bot GeminiAI](https://github.com/nycollasHolanda/Chat-bot-GeminiAI)** — Projeto Front-end de um chatbot feito com a API do Gemini AI.
+
+---
+
+<div align="center">
+
+*Aberto a conexões profissionais e troca de conhecimentos técnicos.*
+
+</div>
